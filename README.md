@@ -33,6 +33,7 @@ The application simulates a real ATM experience with authentication, balance inq
 - [Academic Purpose](#academic-purpose)
 - [Included Files](#included-files)
 - [Repository Goals](#repository-goals)
+- [Author](#author)
 
 
 ---
@@ -371,3 +372,11 @@ This project is intended for:
 - Banking System Simulation
 - Object-Oriented Programming
 - Desktop Application Development
+
+ 
+---
+
+
+# Author
+
+Developed by **Nivasini Muthukumaran**.
